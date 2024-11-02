@@ -1,0 +1,22 @@
+insert into film_awards values
+	('F14',13,1);
+insert into film_awards values
+	('F28',17,2);
+insert into film_awards values
+	('F27',17,18);
+insert into film_awards values
+	('F39',12,13);
+insert into film_awards values
+	('F37',5,2);
+insert into film_awards values
+	('F22',15,10);
+insert into film_awards values
+	('F02',1,6);
+insert into film_awards values
+	('F36',2,5);
+insert into film_awards values
+	('F30',8,14);
+insert into film_awards values
+	('F29',5,11);
+insert into film_awards values
+	('F25',15,15);

@@ -1,0 +1,183 @@
+Liam Neeson
+Caroline Goodall
+Ben Kingsley
+Embeth Davidtz
+
+James McAvoy
+Anya Taylor-Joy
+null
+null
+
+Patton Oswalt
+Janeane Garofalo
+Brad Garrett
+null
+
+Hugh Jackman 
+Dafne Keen 
+Patrick Stewart
+null
+
+Tom Hanks
+Emma Thompson
+null
+null
+
+Christian Bale
+Maggie Gyllenhaal
+Heath Ledger
+null
+
+Ralph Fiennes
+Saoirse Ronan
+Tony Revolori
+null
+
+Guy Pearce
+Carrie-Anne Moss
+Joe Pantoliano
+Jorja Fox
+
+Ayushman Khurrana
+Tabu
+Zakir Hussain
+Radhika Apte
+
+Bruce Willis
+null
+Samuel L. Jackson
+null
+
+Ben Stiller
+Kristen Wiig
+Sean Penn
+Lily Tomlin
+
+Christiam Bale
+Scarlett Johannson
+Hugh Jackman
+Rebecca Hall
+
+Tom Hanks
+Meg Ryan
+Greg Kinnear
+Jean Stapleton
+
+Benedict Cumberbatch
+Tild Swinton
+Chiwetel Ejiofor
+Rachel McAdams
+
+Ayushman Khurrana
+Kriti Sanon
+Rajkumar Rao
+Swati Semwal
+
+Bradley Cooper
+null
+Zach Galifianakis
+null
+
+Steve Buscemi
+null
+Simon Russell Beale
+Olga Kurylenko
+
+null
+Sandra Bullock
+Trevante Rhodes
+Sarah Paulson
+
+Daniel-Day Lewis
+Sally Field
+David Strathairn
+null
+
+null
+Natalie Portman
+null
+Gina Rodriguez
+
+Justin Theroux
+Naomi Watts
+Rober Forster
+Laura Harring
+
+Matt Damon
+Jessica Chastain
+Chiwetel Ejiofor
+Kate Mara
+
+Ryan Gosling
+Claire Foy
+Jason Clarke
+Olivia Hamilton
+
+John Krasinski
+Emily Blunt
+Noah Jupe
+Millicent Simmonds
+
+John David Washington
+Laura Harrier
+Adam Driver 
+null
+
+Charlie Day
+Rinko Kikuchi
+Idris Elba
+null
+
+Christian Bale
+Emily Mortimer
+Billy Crystal
+Jean Simmons
+
+Darren Criss
+Chloe Grace Moretz
+James Caan
+Mary Steenburgen
+
+Thomas Horn
+Sandra Bullock
+Max von Sydow
+Viola Davis
+
+Albert Brooks
+Ellen DeGeneres
+Alexander Gould
+Allison Janney
+
+Shia LaBeouf
+Peyton List
+Stephen Dillane
+null
+
+Shameik Moore
+Hailee Steinfeld
+Jake Johnson
+Lily Tomlin
+
+Bradley Cooper
+Jennifer Lawrence
+Robert DeNiro
+Jacki Weaver
+
+
+insert into director values
+	('D02',4,9);
+insert into director values
+	('D07',2,3);
+insert into director values
+	('D18',8,6);
+insert into director values
+	('D24',0,13);
+insert into director values
+	('D30',16,1);
+insert into director values
+	('D39',0,4);
+insert into director values
+	('D41',8,2);
+insert into director values
+	('D47',6,14);
+

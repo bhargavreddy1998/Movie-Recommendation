@@ -1,0 +1,36 @@
+Schindler's List
+Split
+Ratatouille
+Logan
+Saving Mr. Banks
+The Dark Knight
+The Grand Budapest Hotel
+Memento
+Andhaadhun
+Unbreakable
+The Secret Life of Walter Mitty
+The Prestige
+You've Got Mail
+Doctor Strange
+Bareilly ki Barfi
+The Hangover
+The Death of Stalin
+Birdbox
+Lincoln
+Annihilation
+Mullolhand Drive
+The Martian
+First Man
+A Quiet Place
+Blackkklansman
+Pacific Rim
+Howl's Moving Castle
+The Tale of the Princess Kaguya
+Extremely Loud and Incredibly Close
+Finding Nemo
+The Greatest Game Ever Played
+Spider-man Into the Spider-verse
+Silver Lining's Playbook
+
+format: 'film name',year,'genre'
+e.g.: 'Four Lions',2010,'Comedy'

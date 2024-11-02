@@ -1,0 +1,54 @@
+Person of Interest
+Game of Thrones
+Downton Abbey
+Stranger Things
+Doctor Who
+Sherlock
+Silicon Valley
+The Big Bang Theory
+Westworld
+Arrow
+Modern Family
+Riverdale
+Your Lie in April
+Death Note
+Yes, Minister
+Naruto Shippuden
+Pride and Prejudice
+Punisher
+Poirot
+Dark
+My Hero Academia
+Flash
+30 Rock
+Daredevil
+Blandings
+Brooklyn Nine-Nine
+Last Week Tonight
+Lost in Space
+Last Man Standing
+Breaking Bad
+Sacred Games
+Duck Tales
+Narcos
+Single Parents
+Twin Peaks
+The Late Show
+Friends
+Staurday Night Live
+The Walking Dead
+Family Guy
+Ghoul
+Full Metal Alchemist: Brotherhood
+Jessica Jones
+Lost
+Legends of Tomorrow
+Deadly Class
+Rick and Morty
+Seven Deadly Sins
+Ozark
+Blue Bloods
+
+
+format: 'series name',start year,end year,seasons,'genre'
+e.g.:  'Person of Interest',2011,2016,5,'Drama'

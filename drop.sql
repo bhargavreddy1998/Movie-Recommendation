@@ -1,0 +1,13 @@
+drop table awards;
+drop table film_awards;
+drop table film;
+drop table director;
+drop table screenwriter;
+drop table composer;
+drop table film_cast;
+drop table tv_awards;
+drop table series;
+drop table creator;
+drop table writer;
+drop table network;
+drop table tv_cast;
